@@ -14,7 +14,7 @@ public class Grok
 
 
     public Grok() {
-        powerLevel=50;
+        powerLevel=DEFAULT_POWER_LEVEL;
 
     }
     public Grok (int powerLevel) {
